@@ -23,6 +23,12 @@
             <artifactId>allure-java-annotations</artifactId>
             <version>1.5.4</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.github.vidstige/jadb -->
+        <dependency>
+          <groupId>com.github.vidstige</groupId>
+          <artifactId>jadb</artifactId>
+          <version>-v1.0-g94ebf38-23</version>
+        </dependency>
     </dependencies>
     <packaging>pom</packaging>
     <name>EPAM UI Test Framework</name>
