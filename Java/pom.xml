@@ -30,6 +30,13 @@
           <version>-v1.0-g94ebf38-23</version>
         </dependency>
     </dependencies>
+    <repositories>
+         <repository>
+             <id>Mulesoft Repo</id>
+             <url>https://repository.mulesoft.org/nexus/content/repositories/public/</url>
+         </repository>
+    </repositories>         
+         
     <packaging>pom</packaging>
     <name>EPAM UI Test Framework</name>
     <description>Automation UI testing for web mobile and desktop</description>
