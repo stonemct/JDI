@@ -23,6 +23,11 @@
             <artifactId>allure-java-annotations</artifactId>
             <version>1.5.4</version>
         </dependency>
+         <dependency>
+                  <groupId>com.epam.jdi</groupId>
+                  <artifactId>jdi-uitest-web</artifactId>
+                  <version>1.0.71</version>
+         </dependency>
         <!-- https://mvnrepository.com/artifact/com.github.vidstige/jadb -->
         <dependency>
           <groupId>com.github.vidstige</groupId>
